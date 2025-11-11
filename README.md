@@ -11,7 +11,7 @@ Ejecucion:
 python Gramatica.py Prueba.txt
 ```
 
-- Gramática LL(1) sin recursión izquierda.
+- Gramática LL(1).
 - Implementación de los conjuntos F (FIRST), S (FOLLOW) y P (Predicción).
 - Construcción del AST decorado.
 - Tabla de símbolos
